@@ -2,13 +2,13 @@
 title: 西卡利安滲透者
 canonical_name: Sicarian Infiltrators
 faction: 機械修會
-source_version: 使用者提供《机械修会11版中文1.0.pdf》；Munitorum Field Manual v1.2
+source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
 updated: 2026-08-19
 ---
 
 # 西卡利安滲透者（Sicarian Infiltrators）
 
-本頁依使用者提供的《机械修会11版中文1.0.pdf》建立，並以官方 Munitorum Field Manual v1.2 的現行點數為準。規則關鍵字採繁體中文；英文名稱僅保留作為原文索引。
+本頁依使用者提供的《機械修會11版中文1.0.pdf》建立，並以官方 Munitorum Field Manual v1.2 的現行點數為準。規則關鍵字採繁體中文；英文名稱僅保留作為原文索引。
 
 ## 單位數據
 
@@ -21,7 +21,7 @@ updated: 2026-08-19
 **陣營：機神律令。** 本單位可受機神律令影響。
 **核心：滲透、隱蔽。** 本單位擁有滲透與隱蔽。
 **代碼之聲。** 近戰階段開始時，若敵方單位的接戰範圍內有本能力單位，該敵方單位必須進行被震懾測試。
-**精神干擾光環。** 本單位 6 吋內敵方單位進行被震懾或領導力測試時結果減 1；若本單位 6 吋內還有至少一個機械修會戰線友軍單位，改為減 2。
+**精神幹擾光環。** 本單位 6 吋內敵方單位進行被震懾或領導力測試時結果減 1；若本單位 6 吋內還有至少一個機械修會戰線友軍單位，改為減 2。
 ## 武器
 
 | 武器 | 射程 | A | BS／WS | S | AP | D | 能力 |
@@ -49,7 +49,7 @@ updated: 2026-08-19
 
 ## 資料來源
 
-本頁規則資料依使用者提供的《机械修会11版中文1.0.pdf》整理；點數依官方 Munitorum Field Manual v1.2。
+本頁規則資料依使用者提供的《機械修會11版中文1.0.pdf》整理，並套用官方 Faction Pack 1.1 更新；點數依官方 Munitorum Field Manual v1.2。
 
 ## References
 

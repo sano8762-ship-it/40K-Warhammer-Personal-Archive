@@ -2,13 +2,13 @@
 title: 科技考古學家
 canonical_name: Technoarcheologist
 faction: 機械修會
-source_version: 使用者提供《机械修会11版中文1.0.pdf》；Munitorum Field Manual v1.2
+source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
 updated: 2026-08-19
 ---
 
 # 科技考古學家（Technoarcheologist）
 
-本頁依使用者提供的《机械修会11版中文1.0.pdf》建立，並以官方 Munitorum Field Manual v1.2 的現行點數為準。規則關鍵字採繁體中文；英文名稱僅保留作為原文索引。
+本頁依使用者提供的《機械修會11版中文1.0.pdf》建立，並以官方 Munitorum Field Manual v1.2 的現行點數為準。規則關鍵字採繁體中文；英文名稱僅保留作為原文索引。
 
 ## 單位數據
 
@@ -19,8 +19,8 @@ updated: 2026-08-19
 ## 能力
 
 **陣營：機神律令。** 本模型可受機神律令影響。
-**核心：支援。** 本單位可加入雷鳴宗電僧、法身宗電僧、武裝奴工突破者、武裝奴工毀滅者、護教軍游獵兵或護教軍先鋒兵。
-**神聖秘寶尋覓者。** 本模型所領導單位中的模型目標控制加 1。
+**核心：支援。** 本單位可加入雷鳴宗電僧、法身宗電僧、武裝奴工突破者、武裝奴工毀滅者、護教軍遊獵兵或護教軍先鋒兵。
+**神聖祕寶尋覓者。** 本模型所領導單位中的模型目標控制加 1。
 **謹慎直覺。** 敵方援軍單位無法部署在本模型水平距離 12 吋內。
 ## 武器
 
@@ -46,7 +46,7 @@ updated: 2026-08-19
 
 ## 資料來源
 
-本頁規則資料依使用者提供的《机械修会11版中文1.0.pdf》整理；點數依官方 Munitorum Field Manual v1.2。
+本頁規則資料依使用者提供的《機械修會11版中文1.0.pdf》整理，並套用官方 Faction Pack 1.1 更新；點數依官方 Munitorum Field Manual v1.2。
 
 ## References
 

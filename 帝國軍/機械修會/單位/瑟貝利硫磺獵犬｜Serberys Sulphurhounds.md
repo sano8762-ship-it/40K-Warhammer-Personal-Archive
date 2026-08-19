@@ -2,13 +2,13 @@
 title: 瑟貝利硫磺獵犬
 canonical_name: Serberys Sulphurhounds
 faction: 機械修會
-source_version: 使用者提供《机械修会11版中文1.0.pdf》；Munitorum Field Manual v1.2
+source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
 updated: 2026-08-19
 ---
 
 # 瑟貝利硫磺獵犬（Serberys Sulphurhounds）
 
-本頁依使用者提供的《机械修会11版中文1.0.pdf》建立，並以官方 Munitorum Field Manual v1.2 的現行點數為準。規則關鍵字採繁體中文；英文名稱僅保留作為原文索引。
+本頁依使用者提供的《機械修會11版中文1.0.pdf》建立，並以官方 Munitorum Field Manual v1.2 的現行點數為準。規則關鍵字採繁體中文；英文名稱僅保留作為原文索引。
 
 ## 單位數據
 
@@ -49,7 +49,7 @@ updated: 2026-08-19
 
 ## 資料來源
 
-本頁規則資料依使用者提供的《机械修会11版中文1.0.pdf》整理；點數依官方 Munitorum Field Manual v1.2。
+本頁規則資料依使用者提供的《機械修會11版中文1.0.pdf》整理，並套用官方 Faction Pack 1.1 更新；點數依官方 Munitorum Field Manual v1.2。
 
 ## References
 

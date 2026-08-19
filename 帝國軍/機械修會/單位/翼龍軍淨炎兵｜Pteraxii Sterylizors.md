@@ -2,13 +2,13 @@
 title: 翼龍軍淨炎兵
 canonical_name: Pteraxii Sterylizors
 faction: 機械修會
-source_version: 使用者提供《机械修会11版中文1.0.pdf》；Munitorum Field Manual v1.2
+source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
 updated: 2026-08-19
 ---
 
 # 翼龍軍淨炎兵（Pteraxii Sterylizors）
 
-本頁依使用者提供的《机械修会11版中文1.0.pdf》建立，並以官方 Munitorum Field Manual v1.2 的現行點數為準。規則關鍵字採繁體中文；英文名稱僅保留作為原文索引。
+本頁依使用者提供的《機械修會11版中文1.0.pdf》建立，並以官方 Munitorum Field Manual v1.2 的現行點數為準。規則關鍵字採繁體中文；英文名稱僅保留作為原文索引。
 
 ## 單位數據
 
@@ -42,13 +42,13 @@ updated: 2026-08-19
 
 ## 關鍵字
 
-**關鍵字：** 步兵、飛行、跳躍背包、帝國、護教軍、翼龍軍、淨炎兵。
+**關鍵字：** 步兵、飛行、跳躍揹包、帝國、護教軍、翼龍軍、淨炎兵。
 
 **陣營關鍵字：** 機械修會。
 
 ## 資料來源
 
-本頁規則資料依使用者提供的《机械修会11版中文1.0.pdf》整理；點數依官方 Munitorum Field Manual v1.2。
+本頁規則資料依使用者提供的《機械修會11版中文1.0.pdf》整理，並套用官方 Faction Pack 1.1 更新；點數依官方 Munitorum Field Manual v1.2。
 
 ## References
 

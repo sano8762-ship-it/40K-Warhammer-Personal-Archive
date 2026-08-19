@@ -50,7 +50,7 @@ updated: 2026-08-19
 
 ## 資料來源
 
-本頁規則資料依使用者提供的《机械修会11版中文1.0.pdf》整理；點數依官方 Munitorum Field Manual v1.2。
+本頁規則資料依使用者提供的《機械修會11版中文1.0.pdf》整理，並套用官方 Faction Pack 1.1 更新；點數依官方 Munitorum Field Manual v1.2。
 
 ## References
 

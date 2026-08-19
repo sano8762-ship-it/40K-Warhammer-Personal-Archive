@@ -2,13 +2,13 @@
 title: 始祖鳥層雲猛禽
 canonical_name: Archaeopter Stratoraptor
 faction: 機械修會
-source_version: 使用者提供《机械修会11版中文1.0.pdf》；Munitorum Field Manual v1.2
+source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
 updated: 2026-08-19
 ---
 
 # 始祖鳥層雲猛禽（Archaeopter Stratoraptor）
 
-本頁依使用者提供的《机械修会11版中文1.0.pdf》建立，並以官方 Munitorum Field Manual v1.2 的現行點數為準。規則關鍵字採繁體中文；英文名稱僅保留作為原文索引。
+本頁依使用者提供的《機械修會11版中文1.0.pdf》建立，並以官方 Munitorum Field Manual v1.2 的現行點數為準。規則關鍵字採繁體中文；英文名稱僅保留作為原文索引。
 
 ## 單位數據
 
@@ -39,7 +39,7 @@ updated: 2026-08-19
 | 編制 | 1 架始祖鳥層雲猛禽。 |
 | MFM v1.2 點數 | 185 分 |
 | 裝備 | 兩把智能重機槍、兩門重型磷火炮、雙聯智能雷射炮、裝甲機體、指揮鏈路。 |
-| 升級選項 | 指揮鏈路可換為干擾彈發射器，使本模型獲得煙霧彈。 |
+| 升級選項 | 指揮鏈路可換為幹擾彈發射器，使本模型獲得煙霧彈。 |
 | 版本註記 | Faction Pack 1.1 已移除懸浮，移動與目標控制為「—」；MFM v1.2 點數為 185 分。 |
 
 ## 關鍵字
@@ -50,7 +50,7 @@ updated: 2026-08-19
 
 ## 資料來源
 
-本頁規則資料依使用者提供的《机械修会11版中文1.0.pdf》整理；點數依官方 Munitorum Field Manual v1.2。
+本頁規則資料依使用者提供的《機械修會11版中文1.0.pdf》整理，並套用官方 Faction Pack 1.1 更新；點數依官方 Munitorum Field Manual v1.2。
 
 ## References
 
