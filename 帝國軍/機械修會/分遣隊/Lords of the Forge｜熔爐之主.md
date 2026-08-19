@@ -1,0 +1,45 @@
+---
+title: 熔爐之主
+canonical_name: Lords of the Forge
+faction: 機械修會
+battlefield_role: 重要資產
+points: 1 DP
+source_version: Faction Pack 1.1；Munitorum Field Manual v1.2
+updated: 2026-08-19
+---
+
+# 熔爐之主（Lords of the Forge）
+
+熔爐之主以技術牧師為核心，強化其生存力、幹擾能力與任務執行能力。它適合用技術牧師站在目標點上吸收火力，同時以資料幹擾壓制敵方載具或維持隱藏。
+
+## 分遣隊規則：戰爭披掛
+
+友軍技術牧師模型擁有特殊保護 4+ 與不知疼痛 5+。友軍技術牧師模型擁有以下能力：在你的射擊階段，當該單位被選擇射擊且沒有處於被震懾狀態時，可以使用資料擾亂能力並擲 D6；結果為 2+ 時，選擇以下一項效果：選擇該單位 12 吋內一個敵方載具，令其以 -1 修正進行被震懾測試；或令本單位本輪射擊不會破壞隱藏狀態。每個單位每回合不能被此能力選擇超過一次。
+
+## 強化
+
+| 強化 | 點數 | 效果摘要 |
+|---|---:|---|
+| TL-4ø9 | 30 | 技術牧師模型限定；攜帶者獲得一把 TL-4ø9：24 吋、A3、BS2+、S11、AP-2、D3+2，具毀滅傷害與危險。 |
+| 維因的活力晶片（Vingh’s Wafers of Dynamism） | 25 | 智控數據技師模型限定；第一戰鬥輪開始時，若攜帶者為聯合單位，直到戰鬥結束獲得機動關鍵字。 |
+
+## 策略
+
+| 策略 | CP | 使用效果摘要 |
+|---|---:|---|
+| 聖文預測 | 1 | 對手射擊或近戰階段，敵方選定目標後，指定被選為目標且位於目標點範圍內的技術牧師；直到該敵方單位完成攻擊，對該單位的攻擊 AP 減 1。 |
+| 過載安保程序 | 1 | 移動階段，友軍技術牧師被選擇撤退時使用；該次移動不會阻止本單位射擊或宣告衝鋒。 |
+| 神聖貪求 | 1 | 射擊階段，友軍技術牧師開始執行行動時使用；該次行動不會阻止本單位射擊。 |
+
+## MFM 資料
+
+| 項目 | 數值 |
+|---|---|
+| 分遣隊點數 | 1 DP |
+| 戰場任務類型 | 重要資產 |
+| 強化 | TL-4ø9 30；維因的活力晶片 25 |
+
+## References
+
+[1]: https://mfm.warhammer-community.com/en/adeptus-mechanicus "Munitorum Field Manual｜Adeptus Mechanicus v1.2"
+[2]: https://assets.warhammer-community.com/eng_22-07_warhammer_40,000_faction_pack_adeptus_mechanicus-d1ubc1apog-mpt3r8xzy4.pdf "Faction Pack: Adeptus Mechanicus Version 1.1"
