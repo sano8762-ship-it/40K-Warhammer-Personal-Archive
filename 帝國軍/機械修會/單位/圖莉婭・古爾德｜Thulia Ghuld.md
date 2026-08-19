@@ -55,6 +55,10 @@ updated: 2026-08-19
 | 關鍵字 | 巨獸、人物、機動、史詩英雄、帝國、機械教、技術牧師、圖莉婭・古爾德 |
 | 陣營關鍵字 | 機械修會 |
 
+## 資料來源
+
+本頁規則資料依使用者提供的《机械修会11版中文1.0.pdf》整理；點數依官方 Munitorum Field Manual v1.2。
+
 ## References
 
 [1]: https://assets.warhammer-community.com/eng_22-07_warhammer_40,000_faction_pack_adeptus_mechanicus-d1ubc1apog-mpt3r8xzy4.pdf "Faction Pack: Adeptus Mechanicus Version 1.1"
