@@ -1,9 +1,9 @@
 ---
-title: 雷鳴宗電僧
-canonical_name: Fulgurite Electro-Priests
-faction: 機械修會
-source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 雷鳴宗電僧
+英文名稱: Fulgurite Electro-Priests
+陣營: 機械修會
+來源版本: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 雷鳴宗電僧（Fulgurite Electro-Priests）

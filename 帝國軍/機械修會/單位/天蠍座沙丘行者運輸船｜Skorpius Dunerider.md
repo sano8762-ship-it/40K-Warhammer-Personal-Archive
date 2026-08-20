@@ -1,9 +1,9 @@
 ---
-title: 天蠍座沙丘行者運輸船
-canonical_name: Skorpius Dunerider
-faction: 機械修會
-source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 天蠍座沙丘行者運輸船
+英文名稱: Skorpius Dunerider
+陣營: 機械修會
+來源版本: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 天蠍座沙丘行者運輸船（Skorpius Dunerider）

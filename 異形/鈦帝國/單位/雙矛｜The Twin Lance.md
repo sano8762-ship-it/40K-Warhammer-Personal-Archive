@@ -1,9 +1,9 @@
 ---
-title: 雙矛
-canonical_name: The Twin Lance
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 雙矛
+英文名稱: The Twin Lance
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 雙矛（The Twin Lance）

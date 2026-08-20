@@ -1,11 +1,11 @@
 ---
-title: 熔爐之主
-canonical_name: Lords of the Forge
-faction: 機械修會
-battlefield_role: 重要資產
-points: 1 DP
-source_version: Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 熔爐之主
+英文名稱: Lords of the Forge
+陣營: 機械修會
+戰場定位: 重要資產
+點數: 1 DP
+來源版本: Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 熔爐之主（Lords of the Forge）

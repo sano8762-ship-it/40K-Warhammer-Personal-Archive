@@ -1,9 +1,9 @@
 ---
-title: 激流戰鬥服
-canonical_name: Riptide Battlesuit
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 激流戰鬥服
+英文名稱: Riptide Battlesuit
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 激流戰鬥服（Riptide Battlesuit）

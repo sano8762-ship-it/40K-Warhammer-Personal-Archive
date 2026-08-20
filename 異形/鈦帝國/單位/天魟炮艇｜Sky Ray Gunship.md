@@ -1,9 +1,9 @@
 ---
-title: 天魟炮艇
-canonical_name: Sky Ray Gunship
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 天魟炮艇
+英文名稱: Sky Ray Gunship
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 天魟炮艇（Sky Ray Gunship）

@@ -1,9 +1,9 @@
 ---
-title: 焰湧戰鬥服
-canonical_name: Y'vahra Battlesuit
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 焰湧戰鬥服
+英文名稱: Y'vahra Battlesuit
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 焰湧戰鬥服（Y'vahra Battlesuit）

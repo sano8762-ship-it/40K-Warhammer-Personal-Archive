@@ -1,9 +1,9 @@
 ---
-title: 西多尼安槍騎兵
-canonical_name: Sydonian Dragoons with Taser Lances
-faction: 機械修會
-source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 西多尼安槍騎兵
+英文名稱: Sydonian Dragoons with Taser Lances
+陣營: 機械修會
+來源版本: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 西多尼安槍騎兵（Sydonian Dragoons with Taser Lances）

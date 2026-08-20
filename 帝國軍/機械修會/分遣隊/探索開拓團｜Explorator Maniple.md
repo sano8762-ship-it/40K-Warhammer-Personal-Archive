@@ -1,11 +1,11 @@
 ---
-title: 探索開拓團
-canonical_name: Explorator Maniple
-faction: 機械修會
-battlefield_role: 重要資產
-points: 2 DP
-source_version: Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 探索開拓團
+英文名稱: Explorator Maniple
+陣營: 機械修會
+戰場定位: 重要資產
+點數: 2 DP
+來源版本: Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 探索開拓團（Explorator Maniple）

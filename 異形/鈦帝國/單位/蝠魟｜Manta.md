@@ -1,9 +1,9 @@
 ---
-title: 蝠魟
-canonical_name: Manta
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 蝠魟
+英文名稱: Manta
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 蝠魟（Manta）

@@ -1,11 +1,11 @@
 ---
-title: 智控機器大隊
-canonical_name: Cohort Cybernetica
-faction: 機械修會
-battlefield_role: 佔領並堅守
-points: 2 DP
-source_version: Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 智控機器大隊
+英文名稱: Cohort Cybernetica
+陣營: 機械修會
+戰場定位: 佔領並堅守
+點數: 2 DP
+來源版本: Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 智控機器大隊（Cohort Cybernetica）

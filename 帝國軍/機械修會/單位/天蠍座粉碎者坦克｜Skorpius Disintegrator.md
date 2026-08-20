@@ -1,9 +1,9 @@
 ---
-title: 天蠍座粉碎者坦克
-canonical_name: Skorpius Disintegrator
-faction: 機械修會
-source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 天蠍座粉碎者坦克
+英文名稱: Skorpius Disintegrator
+陣營: 機械修會
+來源版本: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 天蠍座粉碎者坦克（Skorpius Disintegrator）

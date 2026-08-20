@@ -1,9 +1,9 @@
 ---
-title: 阿茲瑞爾
-canonical_name: Azrael
-faction: 星際戰士／黑暗天使
-source_version: 黑暗天使11版中文1.02.pdf
-updated: 2026-08-19
+標題: 阿茲瑞爾
+英文名稱: Azrael
+陣營: 星際戰士／黑暗天使
+來源版本: 黑暗天使11版中文1.02.pdf
+更新日期: 2026-08-19
 ---
 
 # 阿茲瑞爾（Azrael）

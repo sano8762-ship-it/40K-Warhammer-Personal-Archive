@@ -1,9 +1,9 @@
 ---
-title: 薩麥爾
-canonical_name: Sammael
-faction: 星際戰士／黑暗天使
-source_version: 黑暗天使11版中文1.02.pdf
-updated: 2026-08-19
+標題: 薩麥爾
+英文名稱: Sammael
+陣營: 星際戰士／黑暗天使
+來源版本: 黑暗天使11版中文1.02.pdf
+更新日期: 2026-08-19
 ---
 
 # 薩麥爾（Sammael）

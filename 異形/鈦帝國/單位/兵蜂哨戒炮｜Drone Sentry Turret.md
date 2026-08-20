@@ -1,9 +1,9 @@
 ---
-title: 兵蜂哨戒炮
-canonical_name: Drone Sentry Turret
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 兵蜂哨戒炮
+英文名稱: Drone Sentry Turret
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 兵蜂哨戒炮（Drone Sentry Turret）

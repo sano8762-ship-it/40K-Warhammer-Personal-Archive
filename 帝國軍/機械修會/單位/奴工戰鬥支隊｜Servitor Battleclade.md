@@ -1,11 +1,11 @@
 ---
-title: 奴工戰鬥支隊
-canonical_name: Servitor Battleclade
-faction: 機械修會
-unit_type: 奴工戰鬥單位
-source_version: Faction Pack 1.1；Munitorum Field Manual v1.2
-points: 65
-updated: 2026-08-19
+標題: 奴工戰鬥支隊
+英文名稱: Servitor Battleclade
+陣營: 機械修會
+單位類型: 奴工戰鬥單位
+來源版本: Faction Pack 1.1；Munitorum Field Manual v1.2
+點數: 65
+更新日期: 2026-08-19
 ---
 
 # 奴工戰鬥支隊（Servitor Battleclade）

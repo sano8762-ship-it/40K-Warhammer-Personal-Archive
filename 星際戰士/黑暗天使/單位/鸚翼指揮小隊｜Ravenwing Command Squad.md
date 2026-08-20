@@ -1,9 +1,9 @@
 ---
-title: 鸚翼指揮小隊
-canonical_name: Ravenwing Command Squad
-faction: 星際戰士／黑暗天使
-source_version: 黑暗天使11版中文1.02.pdf
-updated: 2026-08-19
+標題: 鸚翼指揮小隊
+英文名稱: Ravenwing Command Squad
+陣營: 星際戰士／黑暗天使
+來源版本: 黑暗天使11版中文1.02.pdf
+更新日期: 2026-08-19
 ---
 
 # 鸚翼指揮小隊（Ravenwing Command Squad）

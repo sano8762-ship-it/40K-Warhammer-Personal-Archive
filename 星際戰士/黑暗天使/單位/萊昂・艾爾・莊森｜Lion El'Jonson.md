@@ -1,9 +1,9 @@
 ---
-title: 萊昂・艾爾・莊森
-canonical_name: Lion El'Jonson
-faction: 星際戰士／黑暗天使
-source_version: 黑暗天使11版中文1.02.pdf
-updated: 2026-08-19
+標題: 萊昂・艾爾・莊森
+英文名稱: Lion El'Jonson
+陣營: 星際戰士／黑暗天使
+來源版本: 黑暗天使11版中文1.02.pdf
+更新日期: 2026-08-19
 ---
 
 # 萊昂・艾爾・莊森（Lion El'Jonson）

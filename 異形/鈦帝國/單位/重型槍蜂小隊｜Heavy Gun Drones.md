@@ -1,9 +1,9 @@
 ---
-title: 重型槍蜂小隊
-canonical_name: Heavy Gun Drones
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 重型槍蜂小隊
+英文名稱: Heavy Gun Drones
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 重型槍蜂小隊（Heavy Gun Drones）

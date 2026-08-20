@@ -1,9 +1,9 @@
 ---
-title: 剃刀鯊戰鬥機
-canonical_name: Razorshark Strike Fighter
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 剃刀鯊戰鬥機
+英文名稱: Razorshark Strike Fighter
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 剃刀鯊戰鬥機（Razorshark Strike Fighter）

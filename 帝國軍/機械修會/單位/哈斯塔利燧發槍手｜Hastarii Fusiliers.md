@@ -1,11 +1,11 @@
 ---
-title: 哈斯塔利燧發槍手
-canonical_name: Hastarii Fusiliers
-faction: 機械修會
-unit_type: 護教軍步兵
-source_version: Faction Pack 1.1；Munitorum Field Manual v1.2
-points: 115／130
-updated: 2026-08-19
+標題: 哈斯塔利燧發槍手
+英文名稱: Hastarii Fusiliers
+陣營: 機械修會
+單位類型: 護教軍步兵
+來源版本: Faction Pack 1.1；Munitorum Field Manual v1.2
+點數: 115／130
+更新日期: 2026-08-19
 ---
 
 # 哈斯塔利燧發槍手（Hastarii Fusiliers）

@@ -1,9 +1,9 @@
 ---
-title: 卡納羅克巨獸
-canonical_name: Great Knarloc
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 卡納羅克巨獸
+英文名稱: Great Knarloc
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 卡納羅克巨獸（Great Knarloc）

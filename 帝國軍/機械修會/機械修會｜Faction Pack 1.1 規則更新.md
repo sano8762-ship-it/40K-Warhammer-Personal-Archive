@@ -1,10 +1,10 @@
 ---
-title: 機械修會｜Faction Pack 1.1 規則更新
-system: Warhammer 40,000 第11版
-faction: 機械修會
-source_version: Faction Pack 1.1
-legal_from: 2026-07-22
-updated: 2026-08-19
+標題: 機械修會｜Faction Pack 1.1 規則更新
+系統: Warhammer 40,000 第11版
+陣營: 機械修會
+來源版本: Faction Pack 1.1
+生效日期: 2026-07-22
+更新日期: 2026-08-19
 ---
 
 # 機械修會｜Faction Pack 1.1 規則更新

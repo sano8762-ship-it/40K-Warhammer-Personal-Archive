@@ -1,11 +1,11 @@
 ---
-title: 根除者大隊
-canonical_name: Eradication Cohort
-faction: 機械修會
-battlefield_role: 肅清敵人
-points: 3 DP
-source_version: Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 根除者大隊
+英文名稱: Eradication Cohort
+陣營: 機械修會
+戰場定位: 肅清敵人
+點數: 3 DP
+來源版本: Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 根除者大隊（Eradication Cohort）

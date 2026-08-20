@@ -1,9 +1,9 @@
 ---
-title: 武裝奴工毀滅者
-canonical_name: Kataphron Destroyers
-faction: 機械修會
-source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 武裝奴工毀滅者
+英文名稱: Kataphron Destroyers
+陣營: 機械修會
+來源版本: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 武裝奴工毀滅者（Kataphron Destroyers）

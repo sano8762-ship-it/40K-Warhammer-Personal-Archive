@@ -1,12 +1,12 @@
 ---
-title: 資料唱經團
-canonical_name: Data-Psalm Conclave
-faction: 機械修會
-battlefield_role: 擾亂
-unique_tag: 唯一：資料詩篇
-points: 2 DP
-source_version: Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 資料唱經團
+英文名稱: Data-Psalm Conclave
+陣營: 機械修會
+戰場定位: 擾亂
+唯一標籤: 唯一：資料詩篇
+點數: 2 DP
+來源版本: Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 資料唱經團（Data-Psalm Conclave）

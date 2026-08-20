@@ -1,9 +1,9 @@
 ---
-title: 虎鯊 AX-1-0
-canonical_name: AX-1-0 Tiger Shark
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 虎鯊 AX-1-0
+英文名稱: AX-1-0 Tiger Shark
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 虎鯊 AX-1-0（AX-1-0 Tiger Shark）

@@ -1,9 +1,9 @@
 ---
-title: 影陽指揮官
-canonical_name: Commander Shadowsun
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 影陽指揮官
+英文名稱: Commander Shadowsun
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 影陽指揮官（Commander Shadowsun）

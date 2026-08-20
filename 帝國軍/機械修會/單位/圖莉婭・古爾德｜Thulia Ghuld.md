@@ -1,11 +1,11 @@
 ---
-title: 圖莉婭・古爾德
-canonical_name: Thulia Ghuld
-faction: 機械修會
-unit_type: 史詩英雄
-source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
-points: 180
-updated: 2026-08-19
+標題: 圖莉婭・古爾德
+英文名稱: Thulia Ghuld
+陣營: 機械修會
+單位類型: 史詩英雄
+來源版本: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
+點數: 180
+更新日期: 2026-08-19
 ---
 
 # 圖莉婭・古爾德（Thulia Ghuld）

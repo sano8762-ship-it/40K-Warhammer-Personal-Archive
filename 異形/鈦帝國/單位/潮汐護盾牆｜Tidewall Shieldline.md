@@ -1,9 +1,9 @@
 ---
-title: 潮汐護盾牆
-canonical_name: Tidewall Shieldline
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 潮汐護盾牆
+英文名稱: Tidewall Shieldline
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 潮汐護盾牆（Tidewall Shieldline）

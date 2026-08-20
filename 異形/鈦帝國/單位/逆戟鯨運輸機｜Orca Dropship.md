@@ -1,9 +1,9 @@
 ---
-title: 逆戟鯨運輸機
-canonical_name: Orca Dropship
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 逆戟鯨運輸機
+英文名稱: Orca Dropship
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 逆戟鯨運輸機（Orca Dropship）

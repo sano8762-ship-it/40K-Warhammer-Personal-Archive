@@ -1,9 +1,9 @@
 ---
-title: 遙感哨塔
-canonical_name: Remote Sensor Tower
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 遙感哨塔
+英文名稱: Remote Sensor Tower
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 遙感哨塔（Remote Sensor Tower）

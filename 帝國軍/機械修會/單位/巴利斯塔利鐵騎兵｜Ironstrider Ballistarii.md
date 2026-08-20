@@ -1,9 +1,9 @@
 ---
-title: 巴利斯塔利鐵騎兵
-canonical_name: Ironstrider Ballistarii
-faction: 機械修會
-source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 巴利斯塔利鐵騎兵
+英文名稱: Ironstrider Ballistarii
+陣營: 機械修會
+來源版本: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 巴利斯塔利鐵騎兵（Ironstrider Ballistarii）

@@ -1,9 +1,9 @@
 ---
-title: 機械主教
-canonical_name: Tech-Priest Dominus
-faction: 機械修會
-source_version: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 機械主教
+英文名稱: Tech-Priest Dominus
+陣營: 機械修會
+來源版本: 使用者提供《機械修會11版中文1.0.pdf》；Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 機械主教（Tech-Priest Dominus）

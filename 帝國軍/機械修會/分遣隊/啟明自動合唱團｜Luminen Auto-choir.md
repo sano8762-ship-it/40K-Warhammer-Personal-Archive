@@ -1,12 +1,12 @@
 ---
-title: 啟明自動合唱團
-canonical_name: Luminen Auto-choir
-faction: 機械修會
-battlefield_role: 擾亂
-unique_tag: 唯一：資料詩篇
-points: 1 DP
-source_version: Faction Pack 1.1；Munitorum Field Manual v1.2
-updated: 2026-08-19
+標題: 啟明自動合唱團
+英文名稱: Luminen Auto-choir
+陣營: 機械修會
+戰場定位: 擾亂
+唯一標籤: 唯一：資料詩篇
+點數: 1 DP
+來源版本: Faction Pack 1.1；Munitorum Field Manual v1.2
+更新日期: 2026-08-19
 ---
 
 # 啟明自動合唱團（Luminen Auto-choir）

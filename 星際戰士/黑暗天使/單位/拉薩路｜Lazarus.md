@@ -1,9 +1,9 @@
 ---
-title: 拉薩路
-canonical_name: Lazarus
-faction: 星際戰士／黑暗天使
-source_version: 黑暗天使11版中文1.02.pdf
-updated: 2026-08-19
+標題: 拉薩路
+英文名稱: Lazarus
+陣營: 星際戰士／黑暗天使
+來源版本: 黑暗天使11版中文1.02.pdf
+更新日期: 2026-08-19
 ---
 
 # 拉薩路（Lazarus）

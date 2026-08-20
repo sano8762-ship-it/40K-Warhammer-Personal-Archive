@@ -1,9 +1,9 @@
 ---
-title: 夏司'歐 R'ALAI
-canonical_name: Shas'o R'alai
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 夏司'歐 R'ALAI
+英文名稱: Shas'o R'alai
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 夏司'歐 R'ALAI（Shas'o R'alai）

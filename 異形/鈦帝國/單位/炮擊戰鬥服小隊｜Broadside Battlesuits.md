@@ -1,9 +1,9 @@
 ---
-title: 炮擊戰鬥服小隊
-canonical_name: Broadside Battlesuits
-faction: 異形／鈦帝國
-source_version: 鈦帝國11版規則 PDF（V.20260619）
-updated: 2026-08-19
+標題: 炮擊戰鬥服小隊
+英文名稱: Broadside Battlesuits
+陣營: 異形／鈦帝國
+來源版本: 鈦帝國11版規則 PDF（V.20260619）
+更新日期: 2026-08-19
 ---
 
 # 炮擊戰鬥服小隊（Broadside Battlesuits）

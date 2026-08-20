@@ -1,11 +1,11 @@
 ---
-title: 哈斯塔利殲滅者
-canonical_name: Hastarii Exterminators
-faction: 機械修會
-unit_type: 護教軍步兵
-source_version: Faction Pack 1.1；Munitorum Field Manual v1.2
-points: 105／120
-updated: 2026-08-19
+標題: 哈斯塔利殲滅者
+英文名稱: Hastarii Exterminators
+陣營: 機械修會
+單位類型: 護教軍步兵
+來源版本: Faction Pack 1.1；Munitorum Field Manual v1.2
+點數: 105／120
+更新日期: 2026-08-19
 ---
 
 # 哈斯塔利殲滅者（Hastarii Exterminators）
