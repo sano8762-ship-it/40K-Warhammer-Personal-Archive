@@ -1,4 +1,4 @@
-# 40K-Warhammer-Personal-Archive
+# 戰鎚40k個人資料庫
 
 Warhammer 40,000 第11版陣營規則與軍表資料庫。
 
