@@ -1,4 +1,4 @@
-# 40K-11版
+# 40K-Warhammer-Personal-Archive
 
 Warhammer 40,000 第11版陣營規則與軍表資料庫。
 
