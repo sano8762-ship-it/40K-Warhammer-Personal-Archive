@@ -9,7 +9,7 @@
 # 護教軍先鋒兵（Skitarii Vanguard）
 ## 官方產品圖片
 
-![護教軍先鋒兵｜Skitarii Vanguard｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/Skitarii-Vanguard-2017.jpg)
+![護教軍先鋒兵｜Skitarii Vanguard｜Games Workshop 官方商品圖](../../../../其他/圖片/帝國軍/機械修會/Skitarii-Vanguard-2017.jpg)
 
 > **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/Skitarii-Vanguard-2017)。官方商品主圖。
 > **圖片擷取日期：** 2026-08-22。

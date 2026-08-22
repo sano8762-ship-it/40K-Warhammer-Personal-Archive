@@ -9,7 +9,7 @@
 # 護教軍元帥（Skitarii Marshal）
 ## 官方產品圖片
 
-![護教軍元帥｜Skitarii Marshal｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/Adeptus-Mechanicus-Skitarii-Marshall-2021.jpg)
+![護教軍元帥｜Skitarii Marshal｜Games Workshop 官方商品圖](../../../../其他/圖片/帝國軍/機械修會/Adeptus-Mechanicus-Skitarii-Marshall-2021.jpg)
 
 > **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/Adeptus-Mechanicus-Skitarii-Marshall-2021)。官方商品主圖。
 > **圖片擷取日期：** 2026-08-22。

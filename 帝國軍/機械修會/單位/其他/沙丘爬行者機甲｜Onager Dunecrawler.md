@@ -9,7 +9,7 @@
 # 沙丘爬行者機甲（Onager Dunecrawler）
 ## 官方產品圖片
 
-![沙丘爬行者機甲｜Onager Dunecrawler｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/Onager-Dunecrawler.jpg)
+![沙丘爬行者機甲｜Onager Dunecrawler｜Games Workshop 官方商品圖](../../../../其他/圖片/帝國軍/機械修會/Onager-Dunecrawler.jpg)
 
 > **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/Onager-Dunecrawler)。官方商品主圖。
 > **圖片擷取日期：** 2026-08-22。

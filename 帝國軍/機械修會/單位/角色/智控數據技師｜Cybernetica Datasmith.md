@@ -9,7 +9,7 @@
 # 智控數據技師（Cybernetica Datasmith）
 ## 官方產品圖片
 
-![智控數據技師｜Cybernetica Datasmith｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/Kastelan-Robots-2017.jpg)
+![智控數據技師｜Cybernetica Datasmith｜Games Workshop 官方商品圖](../../../../其他/圖片/帝國軍/機械修會/Kastelan-Robots-2017.jpg)
 
 > **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/Kastelan-Robots-2017)。智控數據技師為卡斯特蘭機器人套件的隨附模型，此處使用同一官方套件商品圖作為辨識參考。
 > **圖片擷取日期：** 2026-08-22。

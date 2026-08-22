@@ -9,7 +9,7 @@
 # 西多尼安哨兵（Sydonian Skatros）
 ## 官方產品圖片
 
-![西多尼安哨兵｜Sydonian Skatros｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/adeptus-mechanicus-sydonian-skatros-2023.jpg)
+![西多尼安哨兵｜Sydonian Skatros｜Games Workshop 官方商品圖](../../../../其他/圖片/帝國軍/機械修會/adeptus-mechanicus-sydonian-skatros-2023.jpg)
 
 > **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/adeptus-mechanicus-sydonian-skatros-2023)。官方商品主圖。
 > **圖片擷取日期：** 2026-08-22。

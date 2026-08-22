@@ -9,7 +9,7 @@
 # 雷鳴宗電僧（Fulgurite Electro-Priests）
 ## 官方產品圖片
 
-![雷鳴宗電僧｜Fulgurite Electro-Priests｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/Ad-Mec-Fulgurite-Electro-Priests.jpg)
+![雷鳴宗電僧｜Fulgurite Electro-Priests｜Games Workshop 官方商品圖](../../../../其他/圖片/帝國軍/機械修會/Ad-Mec-Fulgurite-Electro-Priests.jpg)
 
 > **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/Ad-Mec-Fulgurite-Electro-Priests)。官方商品主圖。
 > **圖片擷取日期：** 2026-08-22。

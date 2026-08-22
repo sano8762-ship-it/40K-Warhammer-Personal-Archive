@@ -11,7 +11,7 @@
 # 圖莉婭・古爾德（Thulia Ghuld）
 ## 官方產品圖片
 
-![圖莉婭・古爾德｜Thulia Ghuld｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/eye-of-terror-battalion-adeptus-mechanicus-2026.jpg)
+![圖莉婭・古爾德｜Thulia Ghuld｜Games Workshop 官方商品圖](../../../../其他/圖片/帝國軍/機械修會/eye-of-terror-battalion-adeptus-mechanicus-2026.jpg)
 
 > **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/eye-of-terror-battalion-adeptus-mechanicus-2026)。目前官方商店未列出此單位的獨立商品頁；此處使用機械修會官方套裝商品圖作為辨識參考。
 > **圖片擷取日期：** 2026-08-22。

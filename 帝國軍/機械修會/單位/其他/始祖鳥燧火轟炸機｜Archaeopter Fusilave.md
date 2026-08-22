@@ -9,7 +9,7 @@
 # 始祖鳥燧火轟炸機（Archaeopter Fusilave）
 ## 官方產品圖片
 
-![始祖鳥燧火轟炸機｜Archaeopter Fusilave｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/Adeptus-Mechanicus-Archaeopter-Fusilave-2020.jpg)
+![始祖鳥燧火轟炸機｜Archaeopter Fusilave｜Games Workshop 官方商品圖](../../../../其他/圖片/帝國軍/機械修會/Adeptus-Mechanicus-Archaeopter-Fusilave-2020.jpg)
 
 > **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/Adeptus-Mechanicus-Archaeopter-Fusilave-2020)。官方商品主圖。
 > **圖片擷取日期：** 2026-08-22。

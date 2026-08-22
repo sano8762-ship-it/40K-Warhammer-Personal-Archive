@@ -9,7 +9,7 @@
 # 武裝奴工毀滅者（Kataphron Destroyers）
 ## 官方產品圖片
 
-![武裝奴工毀滅者｜Kataphron Destroyers｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/Kataphron-Battle-Servitors-Destroyers-2017.jpg)
+![武裝奴工毀滅者｜Kataphron Destroyers｜Games Workshop 官方商品圖](../../../../其他/圖片/帝國軍/機械修會/Kataphron-Battle-Servitors-Destroyers-2017.jpg)
 
 > **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/Kataphron-Battle-Servitors-Destroyers-2017)。官方商品主圖。
 > **圖片擷取日期：** 2026-08-22。

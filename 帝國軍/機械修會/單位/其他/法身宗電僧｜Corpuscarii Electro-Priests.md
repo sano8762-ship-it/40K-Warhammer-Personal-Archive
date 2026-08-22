@@ -9,7 +9,7 @@
 # 法身宗電僧（Corpuscarii Electro-Priests）
 ## 官方產品圖片
 
-![法身宗電僧｜Corpuscarii Electro-Priests｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/Ad-Mec-Corpuscarii-Electro-Priests.jpg)
+![法身宗電僧｜Corpuscarii Electro-Priests｜Games Workshop 官方商品圖](../../../../其他/圖片/帝國軍/機械修會/Ad-Mec-Corpuscarii-Electro-Priests.jpg)
 
 > **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/Ad-Mec-Corpuscarii-Electro-Priests)。官方商品主圖。
 > **圖片擷取日期：** 2026-08-22。

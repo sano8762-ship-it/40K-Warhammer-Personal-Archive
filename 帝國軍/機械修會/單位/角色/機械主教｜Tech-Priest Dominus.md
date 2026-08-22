@@ -9,7 +9,7 @@
 # 機械主教（Tech-Priest Dominus）
 ## 官方產品圖片
 
-![機械主教｜Tech-Priest Dominus｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/Ad-Mec-Tech-Priest-Dominus.jpg)
+![機械主教｜Tech-Priest Dominus｜Games Workshop 官方商品圖](../../../../其他/圖片/帝國軍/機械修會/Ad-Mec-Tech-Priest-Dominus.jpg)
 
 > **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/Ad-Mec-Tech-Priest-Dominus)。官方商品主圖。
 > **圖片擷取日期：** 2026-08-22。

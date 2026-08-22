@@ -9,7 +9,7 @@
 # 西卡利安滲透者（Sicarian Infiltrators）
 ## 官方產品圖片
 
-![西卡利安滲透者｜Sicarian Infiltrators｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/Sicarian-Infiltrators-2017.jpg)
+![西卡利安滲透者｜Sicarian Infiltrators｜Games Workshop 官方商品圖](../../../../其他/圖片/帝國軍/機械修會/Sicarian-Infiltrators-2017.jpg)
 
 > **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/Sicarian-Infiltrators-2017)。官方商品主圖。
 > **圖片擷取日期：** 2026-08-22。
