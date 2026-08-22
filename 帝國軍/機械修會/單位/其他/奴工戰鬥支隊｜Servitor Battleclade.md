@@ -9,6 +9,13 @@
 ---
 
 # 奴工戰鬥支隊（Servitor Battleclade）
+## 官方產品圖片
+
+![奴工戰鬥支隊｜Servitor Battleclade｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/eye-of-terror-battalion-adeptus-mechanicus-2026.jpg)
+
+> **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/eye-of-terror-battalion-adeptus-mechanicus-2026)。目前官方商店未列出此單位的獨立商品頁；此處使用機械修會官方套裝商品圖作為辨識參考。
+> **圖片擷取日期：** 2026-08-22。
+
 
 奴工戰鬥支隊是 2026-07-22 Faction Pack 1.1 新增的資料表，由一名奴工監工、兩名槍械伺服者與六名戰鬥伺服者組成。它以可替換的遠程武器、技術牧師支援以及執行行動後仍能射擊的能力，承擔機械修會的資料回收與目標任務。
 

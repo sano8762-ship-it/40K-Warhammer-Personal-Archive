@@ -7,6 +7,13 @@
 ---
 
 # 天蠍座粉碎者坦克（Skorpius Disintegrator）
+## 官方產品圖片
+
+![天蠍座粉碎者坦克｜Skorpius Disintegrator｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/Adeptus-Mechanicus-Skorpius-Disintegrator-2019.jpg)
+
+> **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/Adeptus-Mechanicus-Skorpius-Disintegrator-2019)。官方商品主圖。
+> **圖片擷取日期：** 2026-08-22。
+
 
 本頁依使用者提供的《機械修會11版中文1.0.pdf》建立，並以官方 Munitorum Field Manual v1.2 的現行點數為準。規則關鍵字採繁體中文；英文名稱僅保留作為原文索引。
 

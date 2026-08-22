@@ -9,6 +9,13 @@
 ---
 
 # 哈斯塔利殲滅者（Hastarii Exterminators）
+## 官方產品圖片
+
+![哈斯塔利殲滅者｜Hastarii Exterminators｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/eye-of-terror-battalion-adeptus-mechanicus-2026.jpg)
+
+> **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/eye-of-terror-battalion-adeptus-mechanicus-2026)。目前官方商店未列出此單位的獨立商品頁；此處使用機械修會官方套裝商品圖作為辨識參考。
+> **圖片擷取日期：** 2026-08-22。
+
 
 哈斯塔利殲滅者是 2026-07-22 Faction Pack 1.1 新增的護教軍步兵資料表。它以反載具電弧武器與反步兵根除射線槍為主，適合配合機神律令進行中距離精準射擊。
 

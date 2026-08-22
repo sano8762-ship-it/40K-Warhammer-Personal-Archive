@@ -9,6 +9,13 @@
 ---
 
 # 哈斯塔利燧發槍手（Hastarii Fusiliers）
+## 官方產品圖片
+
+![哈斯塔利燧發槍手｜Hastarii Fusiliers｜Games Workshop 官方商品圖](../../../../assets/官方商店/機械修會/eye-of-terror-battalion-adeptus-mechanicus-2026.jpg)
+
+> **圖片來源：** [Games Workshop 官方商店](https://www.warhammer.com/en-WW/shop/eye-of-terror-battalion-adeptus-mechanicus-2026)。目前官方商店未列出此單位的獨立商品頁；此處使用機械修會官方套裝商品圖作為辨識參考。
+> **圖片擷取日期：** 2026-08-22。
+
 
 哈斯塔利燧發槍手是 2026-07-22 Faction Pack 1.1 新增的護教軍步兵資料表。它以中子燧發槍對巨獸與載具的高強度射擊為核心，磷火槍則提供忽視掩體的補充火力。
 
